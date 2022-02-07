@@ -1,2 +1,2 @@
-# go_out_and_do_something_fun
+# Go Out & Do Something Fun
 BU CS673: A Recommendation service 
