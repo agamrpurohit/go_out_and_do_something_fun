@@ -1,0 +1,2 @@
+1. Add Time-Open, Time-Close
+2. Add Duration (Hike estimated duration, movie duration, concert duration)
