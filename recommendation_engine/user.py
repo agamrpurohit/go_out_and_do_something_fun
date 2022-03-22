@@ -20,6 +20,7 @@ class User:
     def assign(self, destination):
         choice = self.recommendations.popleft()
         destination.append(choice)
+        # Remember to remove the element from the cache 
 
     def generate_recommendation(self):
         engine = Engine(self.likes, self.dislikes)

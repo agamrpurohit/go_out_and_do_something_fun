@@ -1,4 +1,4 @@
-key = '9accd7963f6cae7a6e2bc1bbc3529e91'
+key = ''
 
 from pyowm import OWM
 from pyowm.utils import config
@@ -8,7 +8,7 @@ class Weather:
 
     def __init__(self, location):
         self.location = location # 'Boston,US'
-        self.key = '9accd7963f6cae7a6e2bc1bbc3529e91'
+        self.key = ''
 
         self.owm = OWM(self.key)
         self.mgr = self.owm.weather_manager()

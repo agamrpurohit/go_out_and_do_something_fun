@@ -54,6 +54,7 @@ class Engine:
     def filter_by_similarity(self, availables):
         self.availables = availables.sort_values(by='cosine_similarity',
                                                  ascending=False)
+        pass
 
 
 if __name__ == "__main__":

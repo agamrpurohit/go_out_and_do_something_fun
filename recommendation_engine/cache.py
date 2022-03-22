@@ -42,5 +42,6 @@ class ActivitiesCache:
 
 if __name__ == "__main__":
     a = ActivitiesCache()
-    a.data_import().data_prep()
+    a.data_import()
+    a.data_prep()
     print(a.activities)
