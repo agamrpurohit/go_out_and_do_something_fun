@@ -1,0 +1,28 @@
+Activity Name
+
+Activity Type
+  Hike
+  Restaurant
+  Concert
+  Movie
+
+Distance
+  A calculated field, omit for now
+
+Cost
+  Scrape, hikes are free, unless permit is required
+
+Weather-dependent
+  Define decent weather, check if current conditions fall under
+
+Pet-friendly
+
+Hours of operation
+
+Movie Genre
+
+Music Genre
+
+Hike Difficulty
+
+Cuisine Type
